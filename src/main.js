@@ -1,5 +1,12 @@
 
-jQuery('.test1')
-  .find('.child')
-  .addClass('blue');
+
+$('<div><span>1</span></div>');
+const $childList = $('.child')
+$('body').append($childList)
+
+
+
+
+
+
 
